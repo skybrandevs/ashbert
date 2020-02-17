@@ -1,0 +1,1390 @@
+.stay{
+    font-family: 'Muli', sans-serif;
+    font-size: 34px;
+    line-height: 43px;
+   color:rgba(0, 0, 0, 0.76);
+   margin-top:150px;
+   
+
+}
+
+
+.stay-2{
+
+    font-family: 'Muli', sans-serif;
+    font-size: 15.5px;
+    line-height: 28px;
+   Color:#333333;
+
+}
+
+.aaa{
+
+color: initial !important;
+}
+
+
+.topper{
+
+    margin-top:150px;
+    float: right;
+
+}
+
+.li-classic{
+
+list-style:none;
+font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    line-height: 0px;
+   Color:#333333;
+   margin-top:45px;
+
+
+}
+
+
+.ash-logo{
+
+width: 60px;
+margin-top: 15px;
+
+
+}
+
+
+.adjust-image{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top:100px;
+margin-bottom:100px;
+
+
+}
+
+.size{
+
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:20px;
+}
+
+.font-menu{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style:normal;
+    font-weight:400;
+    line-height:35px;
+    margin-top:23.5px;
+    text-align:right;
+    letter-spacing: 2px;
+}
+
+
+.font-menu:hover{
+
+text-decoration: none !important;
+
+transition: transform .2s; /* Animation */
+transform: scale(1.1);
+
+}
+
+
+    .intro-text-h1{
+
+        font-family: 'Roboto', sans-serif !important;
+        font-size: 12px;
+        font-weight: 700;
+        font-style: normal;
+        line-height: 18px;
+        color:#4d4d4d;
+        text-align:center;
+        margin-top: 50px;
+        letter-spacing:2px;
+    }
+
+
+    .intro-text-cont{
+
+        font-family: 'Roboto', sans-serif !important;
+        font-size: 12px;
+        font-weight: 700;
+        font-style: normal;
+        line-height: 16px;
+        color:#4d4d4d;
+        text-align: left;
+        margin-top: 200px;
+        letter-spacing:2px;
+
+
+    }
+
+
+    .intro-text-cont-center{
+
+        font-family: 'Roboto', sans-serif !important;
+        font-size: 12px;
+        font-weight: 700;
+        font-style: normal;
+        line-height: 16px;
+        color:#4d4d4d;
+        text-align:center;
+        margin-top: 150px;
+        letter-spacing:2px;
+
+    }
+
+
+
+    .every{
+
+    font-family: 'Roboto', sans-serif !important;
+    font-style: normal;
+    font-weight:500;
+    font-size:100px;
+    line-height:100px;
+    color: #1a1a1a;
+    margin-top:100px;
+    text-align: left;
+    }
+
+
+    .testimonial{
+
+        font-family: 'Roboto', sans-serif !important;
+        font-style: normal;
+        font-weight:500;
+        font-size:70px;
+        line-height:100px;
+        color: #1a1a1a;
+        margin-top:25px;
+        text-align:center;
+
+    }
+
+
+    .is{
+
+        font-family: 'Roboto', sans-serif !important;
+        font-style: normal;
+        font-size:90px;
+        line-height:90px;
+        color:skyblue;
+        text-align: left;
+
+    }
+
+
+
+
+    .is-new{
+
+        font-family: 'Muli', sans-serif;
+        font-style: normal;
+        font-size:30px;
+        line-height:45px;
+        color:#808080;
+        text-align:right;
+    }
+
+    .testimonial-text{
+
+        font-family: 'Muli', sans-serif;
+        font-style: normal;
+        font-size:20px;
+        line-height:40px;
+        color:#808080;
+        text-align:center;
+        padding-left: 50px;
+        padding-right: 50px;
+
+    }
+
+    .rounded{
+
+border-radius:8px;
+margin-top: 70px;
+
+    }
+
+
+    .arrow-size{
+
+width:100px;
+padding: 15px 15px 15px 15px;
+
+    }
+
+
+    .every-new{
+
+        font-family: 'Roboto', sans-serif !important;
+    font-style: normal;
+    font-weight:500;
+    font-size:70px;
+    line-height:100px;
+    color: #1a1a1a;
+    margin-top:300px;
+    text-align: right;
+
+    }
+
+
+    .working{
+        font-size: 18px;
+        font-family: 'Muli', sans-serif;
+        letter-spacing:1px;
+        line-height:30px;
+        margin-top: 30px;
+    }
+
+.copy{
+
+    font-family: 'Roboto', sans-serif;
+    font-size:10px;
+font-style: normal;
+text-align:left;
+}
+
+
+.copy-2 {
+
+    font-family: 'Roboto', sans-serif;
+    font-size:12.5px;
+font-style: normal;
+text-align:center;
+color:black;
+
+}
+
+.mrg-menu-credit{
+
+margin-top:300px;
+}
+
+
+.stripes{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width:50px;
+margin-top: 100px;
+
+}
+
+
+.zoom {
+
+
+    transition: transform .2s; /* Animation */
+   
+  
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+  
+
+
+  .int{
+    font-family: 'Muli', sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        font-style: normal;
+        line-height: 38px;
+        color:#808080;
+        text-align:center;
+        margin-top: 50px;
+        letter-spacing:1px;
+padding-left: 200px;
+padding-right:200px;
+  }
+
+  .button-fancy{
+
+border: 1px solid #E6E6E6;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding:20px 20px 20px 20px;
+margin-top:50px;
+margin-bottom: 100px;
+outline: none !important;
+
+  }
+
+
+  .button-fancy-3{
+
+border: 1px solid #E6E6E6;
+float: left;
+padding:20px 20px 20px 20px;
+margin-top:50px;
+margin-bottom: 100px;
+outline: none !important;
+}
+
+
+.button-fancy-3:hover{
+
+    border: 1px solid black !important;
+
+}
+
+
+ .button-fancy:hover{
+
+    border: 1px solid black !important;
+    
+
+    
+      }
+
+
+      .button-fancy-2{
+
+        border: 1px solid black;
+        float:right;
+        padding:20px 20px 20px 20px;
+        margin-top:15px;
+        margin-bottom: 60px;
+        outline: none !important;
+        background-color: transparent;
+
+      }
+
+
+
+      .btn-fnt{
+        font-family: 'Roboto', sans-serif;
+        color: black;
+        text-decoration: none !important;
+        letter-spacing: 1px;
+      }
+
+
+      .btn-fnt:hover{
+        color: black;
+       
+      }
+
+
+      .fancy-bac{
+          background-color: #F8F8F8;
+          min-height:100vh;
+      }
+
+      .img-extra{
+
+margin-top: 50px;
+border-radius:10px;
+margin-bottom: 100px;
+}
+
+
+.img-extra-2{
+
+    margin-top: 150px;
+    border-radius:10px;
+    margin-bottom: 100px;
+    }
+
+    .colabo{
+
+        font-family: 'Muli', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        font-style: normal;
+        line-height: 38px;
+       
+    }
+
+    .mrg-bottom{
+
+margin-bottom:150px;
+}
+
+.line{
+
+border-top: 1px solid #E6E6E6;
+width: 100% !important;
+border-right: transparent;
+border-left: transparent;
+border-bottom: transparent;
+
+}
+
+
+.type-text{
+
+width: 45%;
+height:50px;
+outline: none !important;
+font-family: 'Muli', sans-serif !important;
+padding: 5px 5px 5px 15px;
+margin-top:25px;
+}
+
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+
+    font-family: 'Muli', sans-serif !important;
+  font-size:14px;
+  padding: 5px 5px 5px 15px;
+ 
+  }
+
+  .btn-call-back{
+    font-family: 'Roboto', sans-serif;
+    font-size:12px;
+background-color:black;
+height: 50px;
+border: transparent;
+padding: 3px 3px 3px 3px;
+color: white;
+width: 25%;
+
+  }
+
+
+  .callback{
+
+    font-family: 'Muli', sans-serif !important;
+    font-size:13px;
+    Color:#666666;
+    line-height: 20.5px;
+    margin-top: 50px;
+    
+
+  }
+
+
+  .mrg-top{
+margin-top:120px !important;
+
+  }
+
+  .mrg-writer{
+
+    margin-top:20px;
+    
+  }
+
+  .mrg-writer-buttom{
+margin-bottom: 50px;
+  }
+
+  .black{
+
+width: 60px;
+margin-top: 15px;
+
+
+  }
+
+
+
+      /** @ media query starts here **/
+/** general **/
+
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+
+  .dd-2{
+
+display: none;
+
+  }
+
+  .about{
+
+    text-align:center !important;
+    font-family: 'Muli', sans-serif;
+    font-size: 45px;
+    margin-top:117px;
+    margin-bottom: 100px;
+    color: white;
+    
+    }
+    
+
+.topper{
+
+  margin-top:50px;
+  float: left;
+
+
+}
+
+
+
+  .callback{
+
+    font-family: 'Muli', sans-serif !important;
+    font-size:10px;
+    Color:#666666;
+    line-height: 18px;
+    margin-top: 30px;
+    
+
+  }
+
+
+  .btn-call-back{
+    font-family: 'Roboto', sans-serif;
+    font-size:12px;
+background-color:black;
+height: 50px;
+border: transparent;
+padding: 3px 3px 3px 3px;
+color: white;
+width: 50%;
+
+  }
+
+
+
+  .type-text{
+
+    border: 1px solid #666666;
+    width: 45%;
+    height:50px;
+    outline: none !important;
+    font-family: 'Muli', sans-serif !important;
+    padding: 5px 5px 5px 15px;
+    margin-top:25px;
+    }
+    
+
+
+
+  .stay{
+    font-family: 'Muli', sans-serif;
+    font-size: 30px;
+    line-height: 43px;
+   color:rgba(0, 0, 0, 0.76);
+   margin-top:90px;
+   
+
+}
+
+
+.stay-2{
+
+    font-family: 'Muli', sans-serif;
+    font-size: 15.5px;
+    line-height: 28px;
+   Color:#333333;
+
+}
+
+
+  .testimonial-text{
+
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-size:15px;
+    line-height:27px;
+    color:#808080;
+    text-align:center;
+    padding-left: 45px;
+    padding-right: 45px;
+
+}
+
+
+
+  .colabo{
+
+    font-family: 'Muli', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 30px;
+    margin-top:30px;
+   
+}
+
+  .working{
+    font-size: 15px;
+    font-family: 'Muli', sans-serif;
+    letter-spacing:0px;
+    line-height:30px;
+    margin-top: 30px;
+}
+
+
+.is-new{
+
+  font-family: 'Muli', sans-serif;
+  font-style: normal;
+  font-size:20px;
+  line-height:35px;
+  color:#808080;
+  text-align:right;
+}
+
+.every-new{
+
+  font-family: 'Roboto', sans-serif !important;
+font-style: normal;
+font-weight:500;
+font-size:68px;
+line-height:75px;
+color: #1a1a1a;
+margin-top:100px;
+text-align: right;
+
+}
+
+.testimonial{
+
+  font-family: 'Roboto', sans-serif !important;
+  font-style: normal;
+  font-weight:500;
+  font-size:45px;
+  line-height:100px;
+  color: #1a1a1a;
+  margin-top:25px;
+  text-align:center;
+
+}
+
+
+  .int{
+    font-family: 'Muli', sans-serif;
+        font-size: 14.5px;
+        font-weight: 300;
+        font-style: normal;
+        line-height: 35px;
+        color:#808080;
+        text-align:center;
+        margin-top: 50px;
+        letter-spacing:0px;
+padding-left: 0px;
+padding-right:0px;
+  }
+
+
+
+.ash-logo{
+
+  width: 45px;
+  margin-top: 15px;
+  
+  
+  }
+
+
+  .intro-text-cont{
+
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 16px;
+    color:#4d4d4d;
+    text-align: left;
+    margin-top: 100px;
+    letter-spacing:2px;
+
+
+}
+
+
+
+.every{
+
+  font-family: 'Roboto', sans-serif !important;
+  font-style: normal;
+  font-weight:500;
+  font-size:50px;
+  line-height:100px;
+  color: #1a1a1a;
+  margin-top:50px;
+  text-align: left;
+  }
+
+
+
+
+  .is{
+
+    font-family: 'Roboto', sans-serif !important;
+    font-style: normal;
+    font-size:45px;
+    line-height:10px;
+    color:skyblue;
+    text-align: left;
+    margin-bottom:60px;
+
+}
+
+
+
+.img-extra-2{
+
+  margin-top: 10px;
+  border-radius:10px;
+  margin-bottom: 100px;
+  }
+
+  
+
+
+}
+
+
+
+/*media query for 6.0 screen */
+
+@media screen 
+and (max-width:720px)
+and (max-height:1440px)
+ and (max-resolution: 268dpi)
+ and (-webkit-max-device-pixel-ratio:2)
+ { 
+
+
+  .about{
+
+    text-align:center !important;
+    font-family: 'Muli', sans-serif;
+    font-size: 45px;
+    margin-top:117px;
+    margin-bottom: 100px;
+    color: white;
+    
+    }
+
+    
+
+  .topper{
+
+    margin-top:50px;
+    float: left;
+  
+  
+  }
+  
+  
+  
+    .callback{
+  
+      font-family: 'Muli', sans-serif !important;
+      font-size:10px;
+      Color:#666666;
+      line-height: 18px;
+      margin-top: 30px;
+      
+  
+    }
+  
+  
+    .btn-call-back{
+      font-family: 'Roboto', sans-serif;
+      font-size:12px;
+  background-color:black;
+  height: 50px;
+  border: transparent;
+  padding: 3px 3px 3px 3px;
+  color: white;
+  width: 50%;
+  
+    }
+  
+  
+  
+    .type-text{
+  
+      border: 1px solid #666666;
+      width: 45%;
+      height:50px;
+      outline: none !important;
+      font-family: 'Muli', sans-serif !important;
+      padding: 5px 5px 5px 15px;
+      margin-top:25px;
+      }
+      
+  
+  
+  
+    .stay{
+      font-family: 'Muli', sans-serif;
+      font-size: 30px;
+      line-height: 43px;
+     color:rgba(0, 0, 0, 0.76);
+     margin-top:90px;
+     
+  
+  }
+  
+  
+  .stay-2{
+  
+      font-family: 'Muli', sans-serif;
+      font-size: 15.5px;
+      line-height: 28px;
+     Color:#333333;
+  
+  }
+  
+  
+    .testimonial-text{
+  
+      font-family: 'Muli', sans-serif;
+      font-style: normal;
+      font-size:15px;
+      line-height:27px;
+      color:#808080;
+      text-align:center;
+      padding-left: 45px;
+      padding-right: 45px;
+  
+  }
+  
+  
+  
+    .colabo{
+  
+      font-family: 'Muli', sans-serif;
+      font-size: 15px;
+      font-weight: 300;
+      font-style: normal;
+      line-height: 30px;
+      margin-top:30px;
+     
+  }
+  
+    .working{
+      font-size: 15px;
+      font-family: 'Muli', sans-serif;
+      letter-spacing:0px;
+      line-height:30px;
+      margin-top: 30px;
+  }
+  
+  
+  .is-new{
+  
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-size:20px;
+    line-height:35px;
+    color:#808080;
+    text-align:right;
+  }
+  
+  .every-new{
+  
+    font-family: 'Roboto', sans-serif !important;
+  font-style: normal;
+  font-weight:500;
+  font-size:68px;
+  line-height:75px;
+  color: #1a1a1a;
+  margin-top:100px;
+  text-align: right;
+  
+  }
+  
+  .testimonial{
+  
+    font-family: 'Roboto', sans-serif !important;
+    font-style: normal;
+    font-weight:500;
+    font-size:45px;
+    line-height:100px;
+    color: #1a1a1a;
+    margin-top:25px;
+    text-align:center;
+  
+  }
+  
+  
+    .int{
+      font-family: 'Muli', sans-serif;
+          font-size: 14.5px;
+          font-weight: 300;
+          font-style: normal;
+          line-height: 35px;
+          color:#808080;
+          text-align:center;
+          margin-top: 50px;
+          letter-spacing:0px;
+  padding-left: 0px;
+  padding-right:0px;
+    }
+  
+  
+  
+  .ash-logo{
+  
+    width: 45px;
+    margin-top: 15px;
+    
+    
+    }
+  
+  
+    .intro-text-cont{
+  
+      font-family: 'Roboto', sans-serif !important;
+      font-size: 12px;
+      font-weight: 700;
+      font-style: normal;
+      line-height: 16px;
+      color:#4d4d4d;
+      text-align: left;
+      margin-top: 100px;
+      letter-spacing:2px;
+  
+  
+  }
+  
+  
+  
+  .every{
+  
+    font-family: 'Roboto', sans-serif !important;
+    font-style: normal;
+    font-weight:500;
+    font-size:50px;
+    line-height:100px;
+    color: #1a1a1a;
+    margin-top:50px;
+    text-align: left;
+    }
+  
+  
+  
+  
+    .is{
+  
+      font-family: 'Roboto', sans-serif !important;
+      font-style: normal;
+      font-size:45px;
+      line-height:10px;
+      color:skyblue;
+      text-align: left;
+      margin-bottom:60px;
+  
+  }
+  
+  
+  
+  .img-extra-2{
+  
+    margin-top: 10px;
+    border-radius:10px;
+    margin-bottom: 100px;
+    }
+  
+
+
+ }
+
+
+  /*landscape*/
+  @media only screen and (min-width: 568px) and (max-width: 812px) and (orientation:landscape) {
+
+    .about{
+
+      text-align:center !important;
+      font-family: 'Muli', sans-serif;
+      font-size: 45px;
+      margin-top:117px;
+      margin-bottom: 100px;
+      color: white;
+      
+      }
+
+
+.topper{
+
+  margin-top:50px;
+  float: right;
+
+
+}
+
+
+
+  .callback{
+
+    font-family: 'Muli', sans-serif !important;
+    font-size:10px;
+    Color:#666666;
+    line-height: 18px;
+    margin-top: 30px;
+    
+
+  }
+
+
+  .btn-call-back{
+    font-family: 'Roboto', sans-serif;
+    font-size:12px;
+background-color:black;
+height: 50px;
+border: transparent;
+padding: 3px 3px 3px 3px;
+color: white;
+width: 50%;
+
+  }
+
+
+
+  .type-text{
+
+    border: 1px solid #666666;
+    width: 45%;
+    height:50px;
+    outline: none !important;
+    font-family: 'Muli', sans-serif !important;
+    padding: 5px 5px 5px 15px;
+    margin-top:25px;
+    }
+    
+
+
+
+  .stay{
+    font-family: 'Muli', sans-serif;
+    font-size: 30px;
+    line-height: 43px;
+   color:rgba(0, 0, 0, 0.76);
+   margin-top:90px;
+   
+
+}
+
+
+.stay-2{
+
+    font-family: 'Muli', sans-serif;
+    font-size: 15.5px;
+    line-height: 28px;
+   Color:#333333;
+
+}
+
+
+  .testimonial-text{
+
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-size:15px;
+    line-height:27px;
+    color:#808080;
+    text-align:center;
+    padding-left: 45px;
+    padding-right: 45px;
+
+}
+
+
+
+  .colabo{
+
+    font-family: 'Muli', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 30px;
+    margin-top:30px;
+   
+}
+
+  .working{
+    font-size: 15px;
+    font-family: 'Muli', sans-serif;
+    letter-spacing:0px;
+    line-height:30px;
+    margin-top: 30px;
+}
+
+
+.is-new{
+
+  font-family: 'Muli', sans-serif;
+  font-style: normal;
+  font-size:20px;
+  line-height:35px;
+  color:#808080;
+  text-align:right;
+}
+
+.every-new{
+
+  font-family: 'Roboto', sans-serif !important;
+font-style: normal;
+font-weight:500;
+font-size:68px;
+line-height:75px;
+color: #1a1a1a;
+margin-top:100px;
+text-align: right;
+
+}
+
+.testimonial{
+
+  font-family: 'Roboto', sans-serif !important;
+  font-style: normal;
+  font-weight:500;
+  font-size:45px;
+  line-height:100px;
+  color: #1a1a1a;
+  margin-top:25px;
+  text-align:center;
+
+}
+
+
+  .int{
+    font-family: 'Muli', sans-serif;
+        font-size: 14.5px;
+        font-weight: 300;
+        font-style: normal;
+        line-height: 35px;
+        color:#808080;
+        text-align:center;
+        margin-top: 50px;
+        letter-spacing:0px;
+padding-left: 0px;
+padding-right:0px;
+  }
+
+
+
+.ash-logo{
+
+  width: 45px;
+  margin-top: 15px;
+  
+  
+  }
+
+
+  .intro-text-cont{
+
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 16px;
+    color:#4d4d4d;
+    text-align: left;
+    margin-top: 100px;
+    letter-spacing:2px;
+
+
+}
+
+
+
+.every{
+
+  font-family: 'Roboto', sans-serif !important;
+  font-style: normal;
+  font-weight:500;
+  font-size:50px;
+  line-height:100px;
+  color: #1a1a1a;
+  margin-top:50px;
+  text-align: left;
+  }
+
+
+
+
+  .is{
+
+    font-family: 'Roboto', sans-serif !important;
+    font-style: normal;
+    font-size:45px;
+    line-height:10px;
+    color:skyblue;
+    text-align: left;
+    margin-bottom:60px;
+
+}
+
+
+
+.img-extra-2{
+
+  margin-top: 10px;
+  border-radius:10px;
+  margin-bottom: 100px;
+  }
+
+
+
+  }
+
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
+
+/* about ccss */
+
+.black-header{
+
+  background-color: black;
+  width: 100%;
+  min-height:38vh;
+
+}
+
+
+.about{
+
+text-align: left;
+font-family: 'Muli', sans-serif;
+font-size: 50px;
+margin-top:120px;
+color: white;
+
+}
+
+
+.putting{
+  font-family: 'Muli', sans-serif;
+  text-align: center;
+  font-size: 35px;
+  margin-top:100px;
+
+
+}
+
+
+.putting-joint{
+
+
+  font-family: 'Muli', sans-serif;
+  text-align: center;
+  font-size:25px;
+  margin-top:30px;
+  
+}
+
+
+
+.body-about{
+  font-family: 'Muli', sans-serif;
+  text-align: center;
+  margin-top:50px;
+  margin-bottom:100px;
+
+
+
+
+}
+/*end*/
+
+
+/*css services */ 
+
+
+.bbb{
+
+margin-bottom:100px;
+
+
+}
+
+
+.li-li{
+
+  list-style: none;
+  font-family: 'Muli', sans-serif;
+  font-size:25px;
+  margin-top:25px;
+
+}
+
+
+.mm-top{
+
+margin-top:150px;
+
+
+}
+
+
+.mm-top-img{
+
+margin-top:200px;
+
+
+}
+
+
+/* end */
+
+
+html{
+
+  scroll-behavior: smooth;
+}
+
+.data-provided{
+
+font-style: italic;
+font-family: 'Muli', sans-serif;
+color: skyblue;
+font-size:15px;
+text-align: center;
+
+}
+
+
+.data-collect-header{
+
+  font-family: 'Muli', sans-serif;
+  text-align: center;
+  font-size:20px;
+  font-weight:700;
+
+}
+
+.li-privacy{
+
+  text-align: center;
+  font-family: 'Muli', sans-serif;
+  list-style: none;
+  margin-bottom:50px;
+  margin-top: 50px;
+
+}
+
+
+.contact-text{
+
+  text-align: center;
+  font-family: 'Muli', sans-serif;
+  letter-spacing: 1px;
+  margin-top:70px;
+  line-height:50px;
+
+
+
+
+
+}
