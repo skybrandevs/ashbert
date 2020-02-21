@@ -441,10 +441,9 @@ margin-top:25px;
   
   }
 
-  textarea,
-input[type="text"],
-input[type="button"],
-input[type="submit"] {
+
+input[type="number"]
+ {
      -webkit-appearance: none;
      border-radius: 0;
      color: black;
