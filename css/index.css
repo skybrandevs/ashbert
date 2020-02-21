@@ -441,13 +441,14 @@ margin-top:25px;
   
   }
 
-
+/*
 input[type="number"]
  {
      -webkit-appearance: none;
      border-radius: 0;
-     
+     color: black;
 }
+*/
 
 
   .btn-call-back{
