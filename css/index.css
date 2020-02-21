@@ -430,8 +430,7 @@ outline: none !important;
 font-family: 'Muli', sans-serif !important;
 padding: 5px 5px 5px 15px;
 margin-top:25px;
--webkit-appearance: none;
-border-radius: 0;
+
 }
 
 
@@ -573,6 +572,8 @@ width: 50%;
     font-family: 'Muli', sans-serif !important;
     padding: 5px 5px 5px 15px;
     margin-top:25px;
+    -webkit-appearance: none;
+border-radius: 0;
     }
     
 
@@ -824,6 +825,8 @@ and (max-height:1440px)
       font-family: 'Muli', sans-serif !important;
       padding: 5px 5px 5px 15px;
       margin-top:25px;
+      -webkit-appearance: none;
+border-radius: 0;
       }
       
   
@@ -1065,6 +1068,8 @@ width: 50%;
     font-family: 'Muli', sans-serif !important;
     padding: 5px 5px 5px 15px;
     margin-top:25px;
+    -webkit-appearance: none;
+border-radius: 0;
     }
     
 
